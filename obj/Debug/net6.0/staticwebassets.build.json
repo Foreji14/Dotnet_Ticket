@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3eP0V4ZBfPDRAsT0JTp23TkTxYQBrz5O7W2yOnp96eE=",
+  "Source": "dotnet-ticket",
+  "BasePath": "_content/dotnet-ticket",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
